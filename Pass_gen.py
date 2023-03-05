@@ -20,3 +20,4 @@ if len(sys.argv) == 4:
 	os.system(file_name)
 else:
 	main()
+
